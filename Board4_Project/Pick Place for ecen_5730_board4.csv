@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+C:\Users\PRASUN\Desktop\university_of_colorado_boulder\Fall_2021(first sem)\Practical Printed Circuit board\projects\Board4_Sensor_Pcb\Pick Place for ecen_5730_board4.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13-11-21
+Time:       07:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R2","1k","TopLayer","1206_Passive_Resitor","549.000","1269.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"TP2","10x Probe TP","TopLayer","TP10x_Probe","980.000","1650.000","0","Test Point 300 mil centers"
+"TP1","10x Probe TP","TopLayer","TP10x_Probe","290.000","1485.000","180","Test Point 300 mil centers"
+"A1","ALS-PT19-315C/L177/TR8","TopLayer","XDCR_ALS-PT19-315C/L177/TR8","3805.000","1337.238","180","Phototransistors 630nm 2-SMD, No Lead"
+"J6","4-pin header","TopLayer","4pinheader","755.000","2430.000","90",""
+"C11","22uF","TopLayer","1206_Passive_Capacitor","3535.000","1145.000","0","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C10","22uF","TopLayer","1206_Passive_Capacitor","3543.000","1594.000","0","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"U","MCP4725A0T-E/CH","TopLayer","SOT95P270X145-6N","330.000","1255.079","0","12 Bit Digital to Analog Converter 1 SOT-23-6"
+"U2","ADS1115IDGSR","TopLayer","ADC_ADS1115IDGSR","260.000","1750.000","0","16-Bit ADC with Integrated MUX, PGA, Comparator, Oscillator, and Reference 10-VSSOP -40 to 125"
+"U1","DRV5053RAQDBZT","TopLayer","SOT95P237X112-3N","1227.598","2266.541","90","SENSOR LINEAR ANALOG SOT23-3"
+"R9","1k","TopLayer","1206_Passive_Resitor","1869.000","590.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R8","1k","TopLayer","1206_Passive_Resitor","720.000","1890.000","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R7","1k","TopLayer","1206_Passive_Resitor","580.000","1706.000","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R6","1k","TopLayer","1206_Passive_Resitor","2535.000","1546.000","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R5","1k","TopLayer","1206_Passive_Resitor","3645.000","875.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R4","1k","TopLayer","1206_Passive_Resitor","3640.000","605.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"R3","10k","TopLayer","1206_Passive_Resitor","3992.000","1376.000","90","10 kOhms �5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"
+"R1","1k","TopLayer","1206_Passive_Resitor","330.000","1055.000","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS �1% 1/4W 1206 ROHS"
+"MK","CMEJ-0415-42-P","TopLayer","MIC_CMEJ-0415-42-P","3875.000","562.284","0","4.0 мм, всенаправленный, монтаж на печатной плате, 2.0 В постоянного тока, Элекрет-конденсаторный микрофон"
+"J5","MALE 8PIN","TopLayer","8_PIN_100MIL","2643.000","281.000","180","Pin Header 8 1 right-angle,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"J4","MALE 8PIN","TopLayer","8_PIN_100MIL","3343.000","2181.000","180","Pin Header 8 1 right-angle,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"J3","MALE 10PIN","TopLayer","10_PIN_100MIL","2383.000","2181.000","180","Pin Header 10 1 right-angle,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"J2","MALE","TopLayer","6_PIN_100MIL","3443.000","281.000","0","Male header- 6 pin 1 row- through Hole"
+"J1","3 PIN","TopLayer","3_PIN_100mil","115.000","2275.000","90","3 2.54mm Straight 1 Header,Breakaway Through Hole Pin Header & Female Header ROHS"
+"D6","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","1645.000","360.000","0","Digital Series Cascade LED"
+"D5","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","1285.000","355.000","0","Digital Series Cascade LED"
+"D4","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","874.000","361.500","0","Digital Series Cascade LED"
+"D3","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","410.000","370.000","0","Digital Series Cascade LED"
+"D2","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","3790.000","1090.000","0","Digital Series Cascade LED"
+"D1","IN-PI55QATPRPGPBPW","TopLayer","SERIAL_LED","3791.000","1498.000","0","Digital Series Cascade LED"
+"C9","22uF","TopLayer","1206_Passive_Capacitor","1445.000","550.000","90","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C8","22uF","TopLayer","1206_Passive_Capacitor","1045.000","550.000","90","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C7","22uF","TopLayer","1206_Passive_Capacitor","180.000","570.000","270","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C6","22uF","TopLayer","1206_Passive_Capacitor","660.000","555.000","90","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C5","22uF","TopLayer","1206_Passive_Capacitor","460.000","1671.000","270","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C4","1uF","TopLayer","1206_Passive_Capacitor","3850.000","390.000","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"
+"C3","22uF","TopLayer","1206_Passive_Capacitor","3542.000","1370.000","0","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C2","22uF","TopLayer","1206_Passive_Capacitor","180.000","1100.000","270","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","1245.000","2110.000","0","22uF �10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"","AT-1224-TWT-5V-2-R","TopLayer","XDCR_AT-1224-TWT-5V-2-R","2855.000","1740.000","0","AUDIO TRANSDUCER 5 VP-P 87 DB 2400 HZ"
